@@ -36,7 +36,7 @@ I love building **clean, scalable solutions** and learning technologies that pus
 
 I'm always open to talking about tech projects or any interesting ideas:
 
-- 💼 **LinkedIn:** [_linkedin](https://www.linkedin.com/in/matteoschettini/)  
+- 💼 **LinkedIn:** [link](https://www.linkedin.com/in/matteoschettini/)  
 
 ---
 
