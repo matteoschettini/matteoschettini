@@ -16,31 +16,6 @@ I love building **clean, scalable solutions** and learning technologies that pus
 
 ---
 
-## 🧠 Currently learning & experimenting with
-
-- Cloud-native patterns (serverless, microservices, event-driven design)  
-- Practical AI integration in real-world applications  
-- Containerization and orchestration (Docker, dev environments, automation)  
-- Clean code, domain modeling, and long-term maintainable systems  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Core:**  
-`C#` · `Java` · `JavaScript` · `TypeScript` · `Python` · `SQL`
-
-**Backend & Frameworks:**  
-`.NET` · `Spring` · `Node.js` · `REST APIs` · `Express`  
-
-**Cloud & DevOps:**  
-`Cloud Computing` · `Docker` · `Linux` · `CI/CD basics`
-
-**Frontend & Tools:**  
-`React` · `Next.js` · `Git` · `Postman` · `VS Code`
-
----
-
 ## 🧩 How I like to work
 
 - I care about **clarity**: readable code, explicit logic, clear naming.  
@@ -54,15 +29,6 @@ I love building **clean, scalable solutions** and learning technologies that pus
 
 - 🧠 Apps that use **AI** to make everyday workflows smarter  
 - ☁️ **Cloud-backed platforms** that can actually scale
-
----
-
-## 🌱 A bit more about me
-
-- 🎓 **BSc in Computer Science** – University of Turin  
-- 📍 Based in Italy, working and growing in the tech world  
-- 💡 Motivated by **learning**, **building**, and **improving** over time  
-- 🧪 I like to mix **academic knowledge** with **real-world engineering**
 
 ---
 
